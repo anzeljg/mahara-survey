@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<survey name="survey.mbti" version="2011083100" author="Katharine Cook Briggs, Isabel Briggs Myers">
+	<title
+		en.utf8="Myers-Briggs Type Indicator (MBTI)"
+		sl.utf8="Myers-Briggs kazalnik tipa (MBTI)"
+	/>
+	<description
+		en.utf8=""
+		sl.utf8=""
+	/>
+	<instructions
+		en.utf8=""
+		sl.utf8=""
+	/>
+	<translator
+		en.utf8="Katharine Cook Briggs, Isabel Briggs Myers"
+		sl.utf8="Gregor Anželj"
+	/>
+	<responses>
+		<response id="r01">
+			<option section="E" id="a01"
+				en.utf8="expend energy, enjoy groups"
+				sl.utf8=""
+			/>
+			<option section="I" id="a01"
+				en.utf8="conserve energy, enjoy one-on-one"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r02">
+			<option section="S" id="a01"
+				en.utf8="interpret matters literally, rely on common sense"
+				sl.utf8=""
+			/>
+			<option section="N" id="a01"
+				en.utf8="look for meaning and possibilities, rely on foresight"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r03">
+			<option section="T" id="a01"
+				en.utf8="logical, thinking, questioning"
+				sl.utf8=""
+			/>
+			<option section="F" id="a01"
+				en.utf8="empathetic, feeling, accommodating"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r04">
+			<option section="J" id="a01"
+				en.utf8="organized, orderly"
+				sl.utf8=""
+			/>
+			<option section="P" id="a01"
+				en.utf8="flexible, adaptable"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r05">
+			<option section="E" id="a02"
+				en.utf8="more outgoing, think out loud"
+				sl.utf8=""
+			/>
+			<option section="I" id="a02"
+				en.utf8="more reserved, think to yourself"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r06">
+			<option section="S" id="a02"
+				en.utf8="practical, realistic, experiential"
+				sl.utf8=""
+			/>
+			<option section="N" id="a02"
+				en.utf8="imaginative, innovative, theoretical"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r07">
+			<option section="T" id="a02"
+				en.utf8="candid, straight forward, frank"
+				sl.utf8=""
+			/>
+			<option section="F" id="a02"
+				en.utf8=""
+				sl.utf8="tactful, kind, encouraging"
+			/>
+		</response>
+		<response id="r08">
+			<option section="J" id="a02"
+				en.utf8="plan, schedule"
+				sl.utf8=""
+			/>
+			<option section="P" id="a02"
+				en.utf8="unplanned, spontaneous"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r09">
+			<option section="E" id="a03"
+				en.utf8="seek many tasks, public activities, interaction with others"
+				sl.utf8=""
+			/>
+			<option section="I" id="a03"
+				en.utf8="seek more private, solitary activities with quiet to concentrate"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r10">
+			<option section="S" id="a03"
+				en.utf8="standard, usual, conventional"
+				sl.utf8=""
+			/>
+			<option section="N" id="a03"
+				en.utf8="different, novel, unique"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r11">
+			<option section="T" id="a03"
+				en.utf8="firm, tend to criticize, hold the line"
+				sl.utf8=""
+			/>
+			<option section="F" id="a03"
+				en.utf8="gentle, tend to appreciate, conciliate"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r12">
+			<option section="J" id="a03"
+				en.utf8="regulated, structured"
+				sl.utf8=""
+			/>
+			<option section="P" id="a03"
+				en.utf8="easygoing, “live” and “let live”"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r13">
+			<option section="E" id="a04"
+				en.utf8="external, communicative, express yourself"
+				sl.utf8=""
+			/>
+			<option section="I" id="a04"
+				en.utf8="internal, reticent, keep to yourself"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r14">
+			<option section="S" id="a04"
+				en.utf8="consider immediate issues, focus on the here-and-now"
+				sl.utf8=""
+			/>
+			<option section="N" id="a04"
+				en.utf8="look to the future, global perspective, “big picture”"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r15">
+			<option section="T" id="a04"
+				en.utf8="tough-minded, just"
+				sl.utf8=""
+			/>
+			<option section="F" id="a04"
+				en.utf8="tender-hearted, merciful"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r16">
+			<option section="J" id="a04"
+				en.utf8="preparation, plan ahead"
+				sl.utf8=""
+			/>
+			<option section="P" id="a04"
+				en.utf8="go with the flow, adapt as you go"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r17">
+			<option section="E" id="a05"
+				en.utf8="active, initiate"
+				sl.utf8=""
+			/>
+			<option section="I" id="a05"
+				en.utf8="reflective, deliberate"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r18">
+			<option section="S" id="a05"
+				en.utf8="facts, things, seeing “what is”"
+				sl.utf8=""
+			/>
+			<option section="N" id="a05"
+				en.utf8="ideas, dreams, seeing “what could be,” philosophical"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r19">
+			<option section="T" id="a05"
+				en.utf8="matter of fact, issue-oriented, principled"
+				sl.utf8=""
+			/>
+			<option section="F" id="a05"
+				en.utf8="sensitive, people-oriented, compassionate"
+				sl.utf8=""
+			/>
+		</response>
+		<response id="r20">
+			<option section="J" id="a05"
+				en.utf8="control, govern"
+				sl.utf8=""
+			/>
+			<option section="P" id="a05"
+				en.utf8="latitude, freedom"
+				sl.utf8=""
+			/>
+		</response>
+	</responses>
+	<questions sections="joined">
+		<section name="MBTI" collapsible="0" collapsed="0" legend="false">
+			<question type="radio" response="r01" br2rows="true" id="q01"
+				en.utf8="1:"
+				sl.utf8="1:"
+			/>
+			<question type="radio" response="r02" br2rows="true" id="q02"
+				en.utf8="2:"
+				sl.utf8="2:"
+			/>
+			<question type="radio" response="r03" br2rows="true" id="q03"
+				en.utf8="3:"
+				sl.utf8="3:"
+			/>
+			<question type="radio" response="r04" br2rows="true" id="q04"
+				en.utf8="4:"
+				sl.utf8="4:"
+			/>
+			<question type="radio" response="r05" br2rows="true" id="q05"
+				en.utf8="5:"
+				sl.utf8="5:"
+			/>
+			<question type="radio" response="r06" br2rows="true" id="q06"
+				en.utf8="6:"
+				sl.utf8="6:"
+			/>
+			<question type="radio" response="r07" br2rows="true" id="q07"
+				en.utf8="7:"
+				sl.utf8="7:"
+			/>
+			<question type="radio" response="r08" br2rows="true" id="q08"
+				en.utf8="8:"
+				sl.utf8="8:"
+			/>
+			<question type="radio" response="r09" br2rows="true" id="q09"
+				en.utf8="9:"
+				sl.utf8="9:"
+			/>
+			<question type="radio" response="r10" br2rows="true" id="q10"
+				en.utf8="10:"
+				sl.utf8="10:"
+			/>
+			<question type="radio" response="r11" br2rows="true" id="q11"
+				en.utf8="11:"
+				sl.utf8="11:"
+			/>
+			<question type="radio" response="r12" br2rows="true" id="q12"
+				en.utf8="12:"
+				sl.utf8="12:"
+			/>
+			<question type="radio" response="r13" br2rows="true" id="q13"
+				en.utf8="13:"
+				sl.utf8="13:"
+			/>
+			<question type="radio" response="r14" br2rows="true" id="q14"
+				en.utf8="14:"
+				sl.utf8="14:"
+			/>
+			<question type="radio" response="r15" br2rows="true" id="q15"
+				en.utf8="15:"
+				sl.utf8="15:"
+			/>
+			<question type="radio" response="r16" br2rows="true" id="q16"
+				en.utf8="16:"
+				sl.utf8="16:"
+			/>
+			<question type="radio" response="r17" br2rows="true" id="q17"
+				en.utf8="17:"
+				sl.utf8="17:"
+			/>
+			<question type="radio" response="r18" br2rows="true" id="q18"
+				en.utf8="18:"
+				sl.utf8="18:"
+			/>
+			<question type="radio" response="r19" br2rows="true" id="q19"
+				en.utf8="19:"
+				sl.utf8="19:"
+			/>
+			<question type="radio" response="r20" br2rows="true" id="q20"
+				en.utf8="20:"
+				sl.utf8="20:"
+			/>
+		</section>
+	</questions>
+	<results type="value" mode="custom" showResults="true" showSummary="false" showResponses="false" showChart="false">
+	</results>
+</survey>

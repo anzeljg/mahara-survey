@@ -2399,13 +2399,13 @@ function getoptions_surveys() {
 
 function getoptions_palettes() {
 	$palettes = array();
-	// Read all the filenames of color files in lib/pchart2/palettes folder
-	if ($handle = opendir(get_config('docroot') . 'artefact/survey/lib/pchart2/palettes')) {
+	// Read all the filenames of color files in lib/ezc/Graph/mahara/palettes folder
+	if ($handle = opendir(get_config('docroot') . 'artefact/survey/lib/ezc/Graph/mahara/palettes')) {
 		// This is the correct way to loop over the directory.
 		while (false !== ($filename = readdir($handle))) {
 			// Only COLOR files...
-			if (substr($filename, -5) == 'color') {
-				$palette = substr($filename, 0, -6);
+			if (substr($filename, -3) == 'php') {
+				$palette = substr($filename, 0, -4);
 				$palettes = array_merge($palettes, array($palette => ucwords($palette)));
 			}
 		}
